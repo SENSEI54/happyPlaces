@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary"> #889E81</color>
+    <color name="colorPrimaryDark">#698474</color>
+    <color name="colorAccent">#BAC7A7</color>
+    <color name="colorPrimaryLight">#E5E4CC</color>
+
+
+    <color name="colorNightPrimary">#393053</color>
+    <color name="colorNightPrimaryDark">#18122B</color>
+    <color name="colorNightAccent">#443C68</color>
+    <color name="colorNightLight">#635985</color>
+
+    <color name="button_background_color">#889E81</color>
+
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#9AA2AF</color>
+    <color name="BorderColor">	#D3D3D3</color>
+
+    <color name="circular_image_border_color">#757575</color>
+    <color name="item_happy_place_description_text_color">#606060</color>
+    <color name="detail_screen_description_text_color">#757575</color>
+
+    <color name="white">#FFFFFF</color>
+    <!--#698474
+    #889E81
+    #BAC7A7
+    #E5E4CC-->
+    <!--Dark Color#635985
+    #443C68
+    #393053
+    #18122B-->
+</resources>
